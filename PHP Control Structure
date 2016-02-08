@@ -4,6 +4,6 @@ $marks=90;
 if($marks>75);
 {
 echo "Pass";
-}
+} //  put else statement to execute if the condition is false
 ?>
 </body>
